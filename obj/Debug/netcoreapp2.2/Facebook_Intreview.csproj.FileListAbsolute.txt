@@ -1,0 +1,11 @@
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/bin/Debug/netcoreapp2.2/Facebook_Intreview.deps.json
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/bin/Debug/netcoreapp2.2/Facebook_Intreview.runtimeconfig.json
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/bin/Debug/netcoreapp2.2/Facebook_Intreview.runtimeconfig.dev.json
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/bin/Debug/netcoreapp2.2/Facebook_Intreview.dll
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/bin/Debug/netcoreapp2.2/Facebook_Intreview.pdb
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/obj/Debug/netcoreapp2.2/Facebook_Intreview.csprojAssemblyReference.cache
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/obj/Debug/netcoreapp2.2/Facebook_Intreview.csproj.CoreCompileInputs.cache
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/obj/Debug/netcoreapp2.2/Facebook_Intreview.AssemblyInfoInputs.cache
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/obj/Debug/netcoreapp2.2/Facebook_Intreview.AssemblyInfo.cs
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/obj/Debug/netcoreapp2.2/Facebook_Intreview.dll
+/Volumes/gCamouInc/Dev/Projects/Trainning/Facebook_Intreview/obj/Debug/netcoreapp2.2/Facebook_Intreview.pdb
